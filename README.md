@@ -19,7 +19,7 @@ A collection of business intelligence dashboards built with **Power BI** and **T
 ### PowerBI
 
 ### Overview — Transaction Volume & Fee Distribution
-![Transaction Overview](screenshots/dash1.png)
+![Transaction Overview](powerbi/screenshots/dash1.png)
 
 *Interactive filters: Country, Funding Source, Card Type, Network, Transaction Regionality, Month, Day*
 
@@ -32,7 +32,7 @@ Key visuals:
 ---
 
 ### Interchange Analysis — Adyen vs Previous Issuer
-![Interchange Analysis](screenshots/dash2.png)
+![Interchange Analysis](powerbi/screenshots/dash2.png)
 
 Key visuals:
 - **Line chart** — Daily Adyen vs Previous Issuer interchange revenue across April
@@ -45,7 +45,7 @@ Key visuals:
 
 
 ### Executive Summary
-![Executive Summary](screenshots/Tableau_Dashboard.png)
+![Executive Summary](tableau/screenshots/Tableau_Dashboard.png)
 
 ---
 
